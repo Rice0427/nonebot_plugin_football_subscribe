@@ -1,0 +1,2 @@
+# nonebot_plugin_football_subscribe
+基于Lagrange+nonebot2开发的订阅足球比赛并生成赛后总结的插件
